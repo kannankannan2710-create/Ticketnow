@@ -1,0 +1,6 @@
+{
+  "name": "TICKETNOW — Cinema Booking & Multiplex Control",
+  "description": "Premium Indian cinema ticket booking platform with dynamic seat layouts, real-time seat locking, advance booking schedules, and enterprise Super Admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
